@@ -62,8 +62,8 @@ computer vision, and explainable AI. I am passionate about solving real-world pr
 
 ## 📫 Contact
 
-- **Email:** shams321karib@gmail.com  
-- **Phone:** +8801797470717  
+- **Email:** frs14102@gmail.com  
+- **Phone:** +8801849307750  
 - **Languages:** English, Bangla  
 
 ---
@@ -71,7 +71,7 @@ computer vision, and explainable AI. I am passionate about solving real-world pr
 ## 📌 Hobbies
 
 - AI, Data Science and Statistics  
-- Traveling and Exploration
+
 
 ---
 ## 🌐 Socials:
