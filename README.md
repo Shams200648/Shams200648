@@ -1,8 +1,8 @@
 # 💫 About : 👨‍💻 Fathhur Rahaman Sams
 ![Profile Views](https://komarev.com/ghpvc/?username=Shams200648&color=red&style=flat-square)
 
-Hi, I’m Fathhur Rahaman Sams — an AI and machine learning and deep learning enthusiast, researcher, and developer with hands-on experience in object detection,
-computer vision, and explainable AI. I am passionate about solving real-world problems through innovative, data-driven solutions and also AI agentic automation.
+Hi, I’m Fathhur Rahaman Sams — an AI, Machine Learning and Deep Learning enthusiast, researcher, and developer with hands-on experience in object detection,
+computer vision, and explainable AI. I am passionate about solving real-world problems through innovative, data-driven solutions and also AI agentic automation with the implimentation of robotics.
 
 ---
 
